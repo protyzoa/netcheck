@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.whl
+
+# PyInstaller
+*.spec.bak
+/dist/
+/build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# App user data (not part of source)
+# These are stored in %APPDATA%\NetCheck\ at runtime
+*.log
+
+# Distribution artifacts — upload to GitHub Releases instead
+dist/NetCheck.exe
