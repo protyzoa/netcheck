@@ -14,7 +14,7 @@ Aplikasi desktop diagnostik jaringan mandiri untuk pengguna non-teknis. Periksa 
 
 ## 🖼️ Screenshot
 
-> *(Tambahkan screenshot app di sini)*
+> *![Logo Aplikasi](images/screenshot-1.png)*
 
 ---
 
