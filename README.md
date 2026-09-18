@@ -7,7 +7,7 @@ Aplikasi desktop diagnostik jaringan mandiri untuk pengguna non-teknis. Periksa 
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 ![PyQt6](https://img.shields.io/badge/PyQt6-6.11-green?logo=qt)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
+![Platform](https://img.shields.io/badge/Platform-Windows)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ---
@@ -20,10 +20,10 @@ Aplikasi desktop diagnostik jaringan mandiri untuk pengguna non-teknis. Periksa 
 
 ## ✨ Fitur / Features
 
-- **6-lapisan diagnostik otomatis** — dari kabel fisik sampai DNS, berurutan
-- **Auto-diagnosis** — langsung tahu root cause masalah jaringan
-- **Custom Target** — tambahkan server/host kantor sendiri untuk dipantau
-- **Dwibahasa** — Bahasa Indonesia & English, bisa switch real-time
+- **Automatic 6 Layer Network Diagnostic otomatis** — pengecekan berurutan mulai dari kabel fisik sampai DNS
+- **Auto-diagnosis** — dapat menyimpulkan masalah jaringan secara otomatis
+- **Custom Target** — fitur penambahan server/host kantor sendiri untuk dipantau
+- **Dual Language** — Bahasa Indonesia & English, dapat diubah secara real-time
 - **Laporan** — salin hasil diagnosa ke clipboard
 - **Portable** — tersedia sebagai single `.exe`, tidak perlu install Python
 
@@ -138,7 +138,7 @@ MIT License — lihat [LICENSE](LICENSE)
 
 ## 🤝 Kontribusi / Contributing
 
-Pull request sangat disambut! Untuk perubahan besar, buka issue dulu untuk diskusi.
+Pull request very welcomed! Untuk perubahan besar, buka issue dulu untuk diskusi.
 
 1. Fork repo ini
 2. Buat branch fitur: `git checkout -b feature/nama-fitur`
