@@ -145,3 +145,4 @@ Pull request sangat disambut! Untuk perubahan besar, buka issue dulu untuk disku
 3. Commit: `git commit -m 'Add: nama fitur'`
 4. Push: `git push origin feature/nama-fitur`
 5. Buka Pull Request
+
