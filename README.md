@@ -7,14 +7,14 @@ Aplikasi desktop diagnostik jaringan mandiri untuk pengguna non-teknis. Periksa 
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 ![PyQt6](https://img.shields.io/badge/PyQt6-6.11-green?logo=qt)
-![Platform](https://img.shields.io/badge/Platform-Windows)
+![Platform](https://img.shields.io/badge/Platform-Windows-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ---
 
 ## 🖼️ Screenshot
 
-> *![Logo Aplikasi](images/screenshot-1.png)*
+> *![app-screenshot-1](images/screenshot-1.png)*
 
 ---
 
@@ -43,14 +43,14 @@ Aplikasi desktop diagnostik jaringan mandiri untuk pengguna non-teknis. Periksa 
 ## 🚀 Cara Pakai / Quick Start
 
 ### Option A — Portable EXE (Windows)
-Download `NetCheck.exe` dari [Releases](../../releases) dan langsung jalankan. Tidak perlu install apapun.
+Download `NetCheck.exe` dari [Releases](../../releases) dan langsung jalankan. Tidak perlu instalasi apapun.
 
-### Option B — Jalankan dari Source
+### Option B — Eksekusi melalui Source
 
 **Prasyarat:** Python 3.10+
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/netcheck.git
+git clone https://github.com/protyzoa/netcheck.git
 cd netcheck
 pip install -r requirements.txt
 python main.py
@@ -68,7 +68,7 @@ pyinstaller NetCheck.spec --clean
 
 ---
 
-## 📁 Struktur Proyek / Project Structure
+## 📁 Project Structure
 
 ```
 netcheck/
